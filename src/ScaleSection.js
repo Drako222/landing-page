@@ -13,16 +13,15 @@ const flexVideo = css`
   border-radius: 20px;
 
   .flexPartStyles {
-  display: flex;
-  justify-content: space-between;
-  gap: 20px;
-  align-content: center;
-  text-align: center;
-  margin: 0 auto;
-  max-width: 1300px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-content: center;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 1300px;
 
-
-// element for flex descriptions
+    // element for flex descriptions
     p {
       font-size: 14px;
     }
